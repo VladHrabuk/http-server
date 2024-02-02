@@ -1,0 +1,16 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "start:dev": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
